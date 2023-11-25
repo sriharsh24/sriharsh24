@@ -27,7 +27,7 @@ If that sounds like you, please reach out on:
 </a>
 
 
-<a href="http://linkedin.com/in/divya-mohan0209">
+<a href="www.linkedin.com/in/yarlagadda-sriharsh-389b50bb">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

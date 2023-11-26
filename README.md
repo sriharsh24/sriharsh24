@@ -9,7 +9,7 @@
 
 ## Current Products:
 
-- MOM360
+- MOM360™
 - Enterprise Management
 - IIoT Gateway
   

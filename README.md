@@ -18,22 +18,3 @@ If that sounds like you, please reach out on:
 </a>
 
 ---
-
-<h2> Open source projects I'm currently working with </h2>
-
-- <a href="https://github.com/kubernetes">Kubernetes</a>
-  - <a href="https://github.com/kubernetes/website/">Docs</a>
-- <a href="https://github.com/rancher">Rancher</a>
-  - <a href="https://github.com/rancher/docs">Docs</a>
-  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
-- <a href="https://github.com/k3s-io/docs">K3s</a>
-  - <a href="https://github.com/k3s-io/docs">Docs</a>
-  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
-- <a href="https://github.com/kubewarden">Kubewarden</a>
-  - <a href="https://github.com/kubewarden/docs">Docs</a>
-  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
-- <a href="https://opni.io">Opni</a>
-  - <a href="https://github.com/rancher/opni">Docs</a>
-  - <a href="https://github.com/SUSE-Rancher-Community/">Developer Relations & Community Strategy</a>
-
----

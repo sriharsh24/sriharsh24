@@ -7,12 +7,6 @@
 - Reasearching different **doc-as-a-code** approach tools and supporting **CMS** for technical documentaion.
 - Reading different style guides to create an individual style guide for my current organization.
 
-## Current Products:
-
-- MOM360™
-- Enterprise Management
-- IIoT Gateway
-  
 ## 🔌 Connect with me! 
 
 I'm passionate about helping the fellow writers with my domain knowledge & would 👍 to collaborate with likeminded folks.

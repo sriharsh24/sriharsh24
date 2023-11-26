@@ -2,13 +2,11 @@
 
 <p>With seven years of industry experience, I've worked extensively alongside different product teams, and senior leaderships to deliver better product value for the intended audience. Passionate about great documentation & contributor/end user experience in the SaaS based products, MES, IIoT products. </p>
 
-<p>I have spoken at various <a href="https://github.com/divya-mohan0209/talks">global events</a> about my adventures in the cloud native space, <a href="https://github.com/divya-mohan0209/published-content">published content</a> on the web, and am an editor for the <a href="https://www.cncf.io/kubeweekly/">Kubeweekly</a> and <a href="https://www.linkedin.com/newsletters/the-rancher-roundup-7016056350380109824/">The Rancher Roundup</a> newsletters. I've also co-led efforts towards creation and review of the <a href="https://www.cncf.io/certification/kcna/">Kubernetes and Cloud Native Associate Certification Examination</a>.</p>
+## 🧠: Currently, these are the things I'm focusing on:
 
-## :eyes: Currently, these are the things I'm focusing on:
-
-- Enabling & developing **tech & open source** scenes in **MENA, APAC & ANZ regions**, especially **India**.
-  - Co-organizer of Kubernetes Community Days, Mumbai 2023 & Kubernetes Community Days, MENA 2022
-  - Volunteer for Kubernetes Community Days, Bengaluru 2021
+- Reasearching different **doc-as-a-code** approach tools and supporting **CMS** for technical documentaion.
+- Reading different style guides to create an individual style guide for my current organization.
+- Setting up the sta
 - Building out a global **WebAssembly** community thro' awareness, advocacy, and collaboration.
   - Cloud Native Wasm Day program committee member & co-chair
   - [WasmCon](https://events.linuxfoundation.org/wasmcon/) program committee member

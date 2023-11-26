@@ -13,10 +13,13 @@ I'm passionate about helping the fellow writers with my domain knowledge & would
 
 If that sounds like you, please reach out on: 
 
-<a href="www.linkedin.com/in/sriharshyarlagadda2409">
+<a href="http.linkedin.com/in/sriharshyarlagadda2409">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="http://linkedin.com/in/divya-mohan0209">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 

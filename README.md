@@ -13,11 +13,6 @@ I'm passionate about helping the fellow writers with my domain knowledge & would
 
 If that sounds like you, please reach out on: 
 
-<a href="http://twitter.com/Divya_Mohan02">
-  <img src="https://img.shields.io/twitter/follow/Divya_Mohan02?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-</a>
-
-
 <a href="www.linkedin.com/in/yarlagadda-sriharsh-389b50bb">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
